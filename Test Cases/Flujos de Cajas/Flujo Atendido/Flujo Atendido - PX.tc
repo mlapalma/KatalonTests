@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Atendido - PX</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f040a8cf-e51b-4cd7-8744-d3c13e7b011d</testCaseGuid>
+   <variable>
+      <defaultValue>'443845413'</defaultValue>
+      <description></description>
+      <id>5fbd9a7d-451e-48fd-a878-64277fe0fd66</id>
+      <masked>false</masked>
+      <name>collectorId</name>
+   </variable>
+</TestCaseEntity>
